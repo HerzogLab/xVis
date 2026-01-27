@@ -42,6 +42,25 @@ Score/FDR columns for filtering
 
 See the full manual for details on file formats and display options.
 
+### Citing this work
+@article{Grimm_XVisWeb_2015,
+  title = {{{{\emph{xVis}}}} : A Web Server for the Schematic Visualization and Interpretation of Crosslink-Derived Spatial Restraints},
+  author = {Grimm, Maximilian and Zimniak, Tomasz and Kahraman, Abdullah and Herzog, Franz},
+  year = {2015},
+  month = jul,
+  journal = {Nucleic Acids Research},
+  volume = {43},
+  number = {W1},
+  pages = {W362-W369},
+  issn = {0305-1048, 1362-4962},
+  doi = {10.1093/nar/gkv463},
+  urldate = {2024-10-15},
+
+  copyright = {http://creativecommons.org/licenses/by-nc/4.0/},
+  langid = {english},
+  file = {C:\Users\stefanie.brandstette\OneDrive - IMC\PHD\04_Literature\EMPTY_COLLECTION_NAME\Grimm_XVisWeb_2015_.pdf}
+}
+
 
 ### License
 This project’s content (manuals, documentation, example data) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](LICENSE) for details.
