@@ -59,6 +59,11 @@ See the full manual for details on file formats and display options.
   langid = {english}
 ```
 
+### Status / Scope
+
+This repository contains legacy code originally developed in our previous lab and published in 2015.
+The code is provided as-is for transparency and reuse. Compatibility with current software environments (e.g. newer PHP versions) is not guaranteed, and active development or maintenance is limited.
+
 
 ### License
 This project’s content (manuals, documentation, example data) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE](LICENSE) for details.
